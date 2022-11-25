@@ -2,6 +2,7 @@ name: cryointhecloud
 
 channels:
   - conda-forge
+  - nodefaults
 
 dependencies:
   - python==3.10.8
